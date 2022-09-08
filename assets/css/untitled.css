@@ -1,0 +1,86 @@
+#pricing {
+  margin-top: 200px;
+}
+
+.img-thumbnail-gota {
+  max-width: 50%;
+  border-radius: 0% 50% 50% 50%;
+}
+@import url(https://fonts.googleapis.com/css?family=Exo);
+#font, h1, h2{
+  font-family: 'Exo';
+}
+#verde1{
+  color: #0c3827;
+  font-family: 'Exo';
+  
+}
+#verde2{
+    color: #82c244;
+    font-family: 'Exo';
+}
+
+#laranja{
+    color: #f8981d;
+    font-family: 'Exo';
+}
+
+
+
+#btn1{
+  border-color: #0c3827;
+  background-color: #fff;
+  color: #0c3827;
+  font-family: 'Exo';
+}
+
+#btn2{
+  border-color: #82c244;
+  background-color: #fff;
+  color: #82c244;
+  font-family: 'Exo';
+}
+
+#btn3{
+  border-color: #f8981d;
+  background-color: #fff;
+  color: #f8981d;
+  font-family: 'Exo';
+}
+
+.h1{
+   color: #0C3827;
+   font-family: 'Exo';
+   font-weight: bold;
+}
+.h3{
+   color: #70BE44;
+   font-family: 'Exo';
+   font-weight: bold;
+}
+.negrito{
+   font-weight: bold;
+  font-family: 'Exo';
+}
+
+
+.borda-verde{
+border-top:3px solid #0C3827;
+}
+
+.borda-verde2{
+border-top:3px solid #70BE44;
+}
+
+.borda-laranja{
+border-top:3px solid #F8981D;
+}
+
+.sem-bordas{
+border: none;
+}
+
+.p-planos{
+font-family: 'Exo';
+text-align: left;
+}
